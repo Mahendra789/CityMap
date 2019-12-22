@@ -74,7 +74,6 @@ export class MapComponent implements OnInit {
       }
 
     });
-
   }
 
   //Adding Coordinates into locations List
